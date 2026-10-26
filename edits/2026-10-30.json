@@ -1,0 +1,53 @@
+{
+ "outs": {},
+ "dec": {
+  "203471": "plays"
+ },
+ "date": "2026-10-30",
+ "updated_at": "2026-10-30T22:49:36.115Z",
+ "q": {},
+ "calls": {
+  "1626157": {
+   "call": "plays",
+   "team": "NYK",
+   "name": "Karl-Anthony Towns",
+   "at": "2026-10-30T22:22:05.192Z"
+  },
+  "1629060": {
+   "call": "plays",
+   "team": "LAC",
+   "name": "Rui Hachimura",
+   "at": "2026-10-30T22:34:54.552Z"
+  },
+  "1629614": {
+   "call": "plays",
+   "team": "IND",
+   "name": "Andrew Nembhard",
+   "at": "2026-10-30T22:49:32.764Z"
+  },
+  "1630167": {
+   "call": "out",
+   "team": "IND",
+   "name": "Obi Toppin",
+   "at": "2026-10-30T22:49:29.964Z"
+  },
+  "1630174": {
+   "call": "plays",
+   "team": "IND",
+   "name": "Aaron Nesmith",
+   "at": "2026-10-30T22:49:36.115Z"
+  },
+  "1630578": {
+   "call": "out",
+   "team": "HOU",
+   "name": "Alperen Sengun",
+   "at": "2026-10-30T22:36:10.997Z"
+  },
+  "1631323": {
+   "call": "plays",
+   "team": "MIA",
+   "name": "Simone Fontecchio",
+   "at": "2026-10-30T22:24:26.929Z"
+  }
+ }
+}
